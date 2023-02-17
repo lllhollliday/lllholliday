@@ -1,10 +1,12 @@
 
 
-<div align=center display=inline-block>
-  <img height=100px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
-  <div> <h2 color=light-pink>hi</h2> </div>
-    <img height=100px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
+<div align=center>
+  <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
+
+    <img height=50px width= 50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
   </div>
+  
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
