@@ -3,21 +3,22 @@
 <div align=center>
   <img height=50px width=50px  src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 Hi
- <img height=50px width=50px margin-left=10px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
+ <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 
   </div>
   
   ---
   ### 👩‍💻 About Me
- <ul list-style-type:none > 
-  <li> ♍   Front End Dev from the UK, coding in Berlin </li>
+
+  - ♍   Front End Dev from the UK, coding in Berlin 
   
-  <li> 🪄  Strong interest in great UI </li>
+  - 🪄  Strong interest in great UI
   
-  <li> 🔎  Currently looking for my first role in a great team where I can learn a ton making beautiful products! </li>
+  - 🔎  Currently looking for my first role in a great team where I can learn a ton making beautiful products! </li>
   
-  </ul>
+
   
+  ---
   
   ### :hammer_and_wrench: Languages and Tools :
 <div>
