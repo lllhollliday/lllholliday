@@ -2,7 +2,7 @@
 
 <div align=center>
   <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
-  <p>hi</p>
+  <p display=inline-block >hi</p>
  <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 
   </div>
