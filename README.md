@@ -1,15 +1,15 @@
 
 
 <div align=center>
-  <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
+  <img height=50px width=50px margin-right=10px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 Hi
- <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
+ <img height=50px width=50px margin-left=10pc src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 
   </div>
   
   ---
   ### 👩‍💻 About Me
- <ul text-decoration=none > 
+ <ul list-style-type:none > 
   <li> ♍   Front End Dev from the UK, coding in Berlin </li>
   
   <li> 🪄  Strong interest in great UI </li>
