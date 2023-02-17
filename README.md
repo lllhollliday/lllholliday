@@ -1,4 +1,5 @@
 HI
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lllhollliday)](https://git.io/streak-stats)
+<div align=center>
+  <img src="https://media.giphy.com/media/pIPWIX5LsBelgzNH7c/giphy-downsized-large.gif" />
+  </div>
