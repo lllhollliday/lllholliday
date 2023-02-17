@@ -2,7 +2,7 @@
 
 <div align=center>
   <img height=50px width=50px  src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
-Hi
+==Hi==
  <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 
   </div>
@@ -14,7 +14,7 @@ Hi
   
     🪄  Strong interest in great UI
   
-    🔎  Currently looking for my first role in a great team where I can learn a ton making beautiful products! </li>
+    🔎  Currently looking for my first role in a great team where I can learn a ton making beautiful products! 
   
 
   
