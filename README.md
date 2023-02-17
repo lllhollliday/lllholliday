@@ -9,13 +9,14 @@ Hi
   
   ---
   ### 👩‍💻 About Me
+ <ul text-decoration=none > 
+  <li> ♍   Front End Dev from the UK, coding in Berlin </li>
   
-  ♍   Front End Dev from the UK, coding in Berlin
+  <li> 🪄  Strong interest in great UI </li>
   
-  🪄  Strong interest in great UI
+  <li> 🔎  Currently looking for my first role in a great team where I can learn a ton making beautiful products! </li>
   
-  🔎  Currently looking for my first role in a great team where I can learn a ton making beautiful products! 
-  
+  </ul>
   
   
   ### :hammer_and_wrench: Languages and Tools :
