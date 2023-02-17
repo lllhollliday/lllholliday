@@ -2,12 +2,13 @@
 
 <div align=center>
   <img height=50px width=50px  src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
-==Hi==
+Hi
  <img height=50px width=50px src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" />
 
   </div>
   
   ---
+  
   ### 👩‍💻 About Me
 
     ♍   Front End Dev from the UK, coding in Berlin 
