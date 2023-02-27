@@ -11,7 +11,7 @@ Hi
   
   ### 👩‍💻 About Me
 
-    ♍   Front End Dev from the UK, coding in Berlin 
+    ♍   Frontend Dev from the UK, coding in Berlin 
   
     🪄  Strong interest in great UI
   
