@@ -13,11 +13,11 @@ Hi
 
     ♍   Frontend Dev from the UK, coding in Berlin 
   
-    🪄  Strong interest in great UI
+    🪄  Strong interest in developing great UI
   
-    🔎  Currently looking for my first role in a great team where I can learn a ton whilst making beautiful products! 
+    🔎  Looking for my first role in a great team where I can learn a ton whilst making beautiful products! 
     
-    🍲  Currently learning React Native and Next.js
+    🍲  Learning React Native and Next.js
   
 
   
