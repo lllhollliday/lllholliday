@@ -9,15 +9,4 @@ Hi
   
   ---
   
-  ### 👩‍💻 About Me
 
-    ♍   Frontend Dev from the UK, coding in Berlin 
-  
-    🪄  Strong interest in developing great UX/UI
-  
-    🔎  Looking for my first role in a great team where I can learn a ton whilst making beautiful products! 
-  
-
- 
-  ---
-  
